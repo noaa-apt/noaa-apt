@@ -26,3 +26,4 @@ me.say_hi()
 ### Main Projects
 - [Kiwi-Reload](https://github.com/noaa-apt/noaa-apt/kiwi-reload)
 - [API-T](https://github.com/noaa-apt/API-T)
+- [We Encrypt](https://github.com/noaa-apt/We-Encrypt)
